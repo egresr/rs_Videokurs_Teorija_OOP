@@ -1,0 +1,9 @@
+C:\Users\rsdat\Documents\rsProjekts\rs_Videokurs_Teorija_OOP\Geometry1\Geometry1\bin\Debug\Geometry1.exe.config
+C:\Users\rsdat\Documents\rsProjekts\rs_Videokurs_Teorija_OOP\Geometry1\Geometry1\bin\Debug\Geometry1.exe
+C:\Users\rsdat\Documents\rsProjekts\rs_Videokurs_Teorija_OOP\Geometry1\Geometry1\bin\Debug\Geometry1.pdb
+C:\Users\rsdat\Documents\rsProjekts\rs_Videokurs_Teorija_OOP\Geometry1\Geometry1\obj\Debug\Geometry1.csprojResolveAssemblyReference.cache
+C:\Users\rsdat\Documents\rsProjekts\rs_Videokurs_Teorija_OOP\Geometry1\Geometry1\obj\Debug\Geometry1.Form1.resources
+C:\Users\rsdat\Documents\rsProjekts\rs_Videokurs_Teorija_OOP\Geometry1\Geometry1\obj\Debug\Geometry1.Properties.Resources.resources
+C:\Users\rsdat\Documents\rsProjekts\rs_Videokurs_Teorija_OOP\Geometry1\Geometry1\obj\Debug\Geometry1.csproj.GenerateResource.Cache
+C:\Users\rsdat\Documents\rsProjekts\rs_Videokurs_Teorija_OOP\Geometry1\Geometry1\obj\Debug\Geometry1.exe
+C:\Users\rsdat\Documents\rsProjekts\rs_Videokurs_Teorija_OOP\Geometry1\Geometry1\obj\Debug\Geometry1.pdb
